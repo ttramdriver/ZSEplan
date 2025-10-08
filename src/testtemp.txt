@@ -1,0 +1,820 @@
+<table border="0" bordercolor="black" cellpadding="2" cellspacing="0" style="border-collapse: collapse">
+
+<td align="LEFT" class="st0" colspan="4">
+<nobr>
+Zastępstwa w dniu 08.10.2025 środa
+</nobr>
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Dariusz Czyżewski
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+3
+
+<td align="LEFT" class="st8" nowrap="">
+1 F - Zastępstwo
+
+<td align="LEFT" class="st8" nowrap="">
+ 
+
+<td align="LEFT" class="st9" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+4
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+1 F - Zastępstwo
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+ 
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+5
+
+<td align="LEFT" class="st11" nowrap="">
+1 F - Zastępstwo
+
+<td align="LEFT" class="st11" nowrap="">
+ 
+
+<td align="LEFT" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+7
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+3 E(1) - Hala1
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Rafał Borowczyk
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+wf
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Vakat EduZdr.
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+0
+
+<td align="LEFT" class="st8" nowrap="">
+3 A - 106
+
+<td align="LEFT" class="st8" nowrap="">
+Monika Rybacka
+
+<td align="LEFT" class="st9" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+1
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+1 H - 4
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Dorota Musierowicz
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Danuta Gierczak-Pliszka
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st16" nowrap="">
+5
+
+<td align="LEFT" class="st17" nowrap="">
+1 B - 108
+
+<td align="LEFT" class="st17" nowrap="">
+Dominik Wojtuń
+
+<td align="LEFT" class="st18" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Hanna Kulczewska
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+6
+
+<td align="LEFT" class="st8" nowrap="">
+2 A - 215
+
+<td align="LEFT" class="st8" nowrap="">
+Anna Mordaka-Markiewicz
+
+<td align="LEFT" class="st9" nowrap="">
+biz. i zarz.
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+7
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+2 A - 215
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+Dominik Wojtuń
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+j.polski
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+9
+
+<td align="LEFT" class="st11" nowrap="">
+2 H - 109
+
+<td align="LEFT" class="st11" nowrap="">
+Małgorzata Zelek
+
+<td align="LEFT" class="st12" nowrap="">
+e. obywatelska
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+10
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+2 H - 109
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Krzysztof Kołodziejski
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Anna Piłat
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+2
+
+<td align="LEFT" class="st8" nowrap="">
+1 H - 312
+
+<td align="LEFT" class="st8" nowrap="">
+Magdalena Kucharska
+
+<td align="LEFT" class="st9" nowrap="">
+matematyka
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+3
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+1 H - 312
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+Monika Baranowska
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+przy.zaw.pro
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+4
+
+<td align="LEFT" class="st11" nowrap="">
+5 I - 312
+
+<td align="LEFT" class="st11" nowrap="">
+Arleta Wrzesień
+
+<td align="LEFT" class="st12" nowrap="">
+matematyka
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+5
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+5 I - 312
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+Edyta Łabuńska
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+matematyka
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+6
+
+<td align="LEFT" class="st11" nowrap="">
+5 D - 312
+
+<td align="LEFT" class="st11" nowrap="">
+Agnieszka Dembczyńska
+
+<td align="LEFT" class="st12" nowrap="">
+za ostatnią lekcję
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+7
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+5 D - 312
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Agnieszka Dembczyńska
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+za przedostatnią lekcję
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Sławomira Sędalska
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+2
+
+<td align="LEFT" class="st8" nowrap="">
+1 B(2) - Hala1
+
+<td align="LEFT" class="st8" nowrap="">
+Remigiusz Krzemiński
+
+<td align="LEFT" class="st9" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+3
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+5 E(2) - Hala2
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Łukasz Dolski
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Jerzy Truszkowski
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+0
+
+<td align="LEFT" class="st8" nowrap="">
+3 B(1) - Uczniowie przychodzą później
+
+<td align="LEFT" class="st8" nowrap="">
+ 
+
+<td align="LEFT" class="st9" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+1
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+3 B(1) - Uczniowie przychodzą później
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+ 
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+2
+
+<td align="LEFT" class="st11" nowrap="">
+3 B(1) - Uczniowie przychodzą później
+
+<td align="LEFT" class="st11" nowrap="">
+ 
+
+<td align="LEFT" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+3
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+3 B(1) - Uczniowie przychodzą później
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+ 
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st4" nowrap="">
+4
+
+<td align="LEFT" class="st13" nowrap="">
+3 B(1) - Uczniowie przychodzą później
+
+<td align="LEFT" class="st13" nowrap="">
+ 
+
+<td align="LEFT" class="st14" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Informatyka2 Vacat
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st16" nowrap="">
+8
+
+<td align="LEFT" class="st17" nowrap="">
+1 I - 108
+
+<td align="LEFT" class="st17" nowrap="">
+Dominik Wojtuń
+
+<td align="LEFT" class="st18" nowrap="">
+j. polski
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Informatyka3 Vacat
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+6
+
+<td align="LEFT" class="st8" nowrap="">
+5 I - 109
+
+<td align="LEFT" class="st8" nowrap="">
+Dagmara Wróblewska
+
+<td align="LEFT" class="st9" nowrap="">
+j. polski
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st4" nowrap="">
+7
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+5 I - 109
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st13" nowrap="">
+Dagmara Wróblewska
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st14" nowrap="">
+j. polski
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Informatyka4 Vacat
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st16" nowrap="">
+8
+
+<td align="LEFT" class="st17" nowrap="">
+3 E - 111
+
+<td align="LEFT" class="st17" nowrap="">
+Dagmara Wróblewska
+
+<td align="LEFT" class="st18" nowrap="">
+j. polski
+
+
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+<td align="LEFT" class="st15" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#69AADE" class="st1" colspan="4" nowrap="">
+Stanisław Wilczyński
+
+
+
+<td align="LEFT" bgcolor="#92C0E7" class="st4" nowrap="">
+lekcja
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+opis
+
+<td align="LEFT" bgcolor="#92C0E7" class="st5" nowrap="">
+zastępca
+
+<td align="LEFT" bgcolor="#92C0E7" class="st6" nowrap="">
+uwagi   
+
+
+
+<td align="LEFT" class="st7" nowrap="">
+7
+
+<td align="LEFT" class="st8" nowrap="">
+3 B(2) - W-6
+
+<td align="LEFT" class="st8" nowrap="">
+Zbigniew Smutek
+
+<td align="LEFT" class="st9" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+8
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+3 B(2) - W-6
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+Zbigniew Smutek
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st10" nowrap="">
+9
+
+<td align="LEFT" class="st11" nowrap="">
+3 B(2) - W-6
+
+<td align="LEFT" class="st11" nowrap="">
+Zbigniew Smutek
+
+<td align="LEFT" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st10" nowrap="">
+10
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+3 B(2) - W-6
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st11" nowrap="">
+Zbigniew Smutek
+
+<td align="LEFT" bgcolor="#C4DDF2" class="st12" nowrap="">
+ 
+
+
+
+<td align="LEFT" class="st4" nowrap="">
+11
+
+<td align="LEFT" class="st13" nowrap="">
+3 B(2) - W-6
+
+<td align="LEFT" class="st13" nowrap="">
+Zbigniew Smutek
+
+<td align="LEFT" class="st14" nowrap="">
+ 
+
+
+</table>
