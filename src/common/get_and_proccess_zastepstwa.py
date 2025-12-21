@@ -3,8 +3,11 @@ from bs4 import BeautifulSoup
 
 def zastepstwa_get():
     url = "https://zastepstwa.zse.bydgoszcz.pl"
-    strona = requests.get(url)
-    return strona
+    try:
+        return requests.get(url)
+    except:
+        return 1
+    
 
 def str_cleanup(x: str):
     # x = x.replace(';', '.')
@@ -32,7 +35,7 @@ def str_cleanup(x: str):
 
     return x
 
-def data_process(x: str):
+def data_sort(x: str):
     tempDaneP = []
     tempDaneP.append(x[0:x.index('!]')])
     tempDaneP = [item.split('| ') for item in tempDaneP]
@@ -88,28 +91,36 @@ def data_process(x: str):
         return daneP, imiNazw, lekcja, klasa, sala, zastepca, uwagi
     return daneP
     
+def data_process(x: list):
+    return 'test'
+    
 def main():
-    html = zastepstwa_get()
-    soup = BeautifulSoup(html.content.decode('iso-8859-2'), 'html.parser')
-    zastepstwa = soup.select("table")
-    strzastep = str(zastepstwa)
-    strzastep = str_cleanup(strzastep)
-    # print(strzastep)
+    # print(zastepstwa_get())
+    if zastepstwa_get() != 1:
+        html = zastepstwa_get()
+        soup = BeautifulSoup(html.content.decode('iso-8859-2'), 'html.parser')
+        zastepstwa = soup.select("table")
+        strCleanDaneZastepstwa = str_cleanup(str(zastepstwa))
+        with open('zastepstwa_raw.txt', 'w') as f:
+            f.write(strCleanDaneZastepstwa)
+        with open('zastepstwa_sorted.txt', 'w') as f:
+            f.write(str(data_sort(strCleanDaneZastepstwa)))
+        print(data_process(1))
+        # print('no errors')
+    else:
+        # print('an error occured')
+        with open('zastepstwa_raw.txt', 'r') as f:
+            noInternetZastepstwa = f.read()
+
+        with open('zastepstwa_sorted.txt', 'w') as f:
+            f.write(str(data_sort(noInternetZastepstwa)))
     
-    with open('zastepstwa_unprocessed.txt', 'w') as f:
-        f.write(strzastep)
-    
-    with open('zastepstwa_unprocessed.txt', 'r') as f:
-        noInternetZastep = f.read()
-    
-    with open('zastepstwa.txt', 'w') as f:
-        f.write(str(data_process(noInternetZastep)))
-        
+    # print(strCleanDaneZastepstwa)
     # with open('zastepstwa_unprocessed saved 1.txt', 'r') as f:
-    #     noInternetZastep = f.read()
+    #     noInternetZastepstwa = f.read()
     
     # with open('zastepstwa saved 1.txt', 'w') as f:
-    #     f.write(str(data_process(noInternetZastep)))
+    #     f.write(str(data_sort(noInternetZastepstwa)))
         
        
 main()
